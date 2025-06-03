@@ -1,1 +1,1 @@
-main > dev > f1
+main > dev > f1 > f2
